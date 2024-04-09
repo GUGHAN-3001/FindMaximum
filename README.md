@@ -45,13 +45,13 @@ def max_marks(list1):
 
 ## Output:
 i) To find the maximum of marks using the list method sort.
-![Screenshot 2024-03-26 091254](https://github.com/GUGHAN-3001/FindMaximum/assets/150009432/f5ea829a-aae1-466c-a40f-1ae43b7179b6)
+![alt text](<Screenshot 2024-04-09 120830.png>)
 
 ii) To find the maximum marks using the list method max().
-![Screenshot 2024-03-26 091254](https://github.com/GUGHAN-3001/FindMaximum/assets/150009432/0490b3ac-a0b8-4e14-ab8f-d199b6c0addb)
+![alt text](<Screenshot 2024-04-09 120849.png>)
 
 iii) To find the maximum marks without using builtin functions.
-![Screenshot 2024-03-26 091254](https://github.com/GUGHAN-3001/FindMaximum/assets/150009432/4fb823e2-ba61-4e44-bb68-be4c484981b4)
+![alt text](<Screenshot 2024-04-09 120906.png>)
 
 # Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
